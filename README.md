@@ -14,4 +14,4 @@ This program includes:
 - Addition and Subtraction operations with base (It's working but sometimes it gives errors.)
 - Complement to 1 and Complement to 2
 - Quantization and Sensitivity in Analog to Digital Converter
-- DAC Converter Table
+- Digital to Analog Conversion Table
