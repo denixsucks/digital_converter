@@ -4,7 +4,7 @@
 WARNING : This is the Alpha version. Some systems doesn't work properly.
 
 
-This is my homework for digital system design class. Our teacher gave us 2 weeks to finish this so there are lots of bugs and i didnt optimize the code. I wrote with Maven Java. I didnt have time but I'll get back to this later on and fix the issues. Feel free to use the codes.
+This is my homework for digital system design class. Our teacher gave us 2 weeks to finish this so there are lots of bugs and i didnt optimize the code. I wrote with Ant Java. I didnt have time but I'll get back to this later on and fix the issues. Feel free to use the codes.
 
 
 This program includes:
